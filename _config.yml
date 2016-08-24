@@ -1,0 +1,14 @@
+layout_spectrum: 0.7938191406428814
+typography_spectrum: 0.505086078774184
+color:
+  brandStrength: 0.8320010318420827
+  lightness: 0.1121615085285157
+  saturation: 0.3312674555927515
+  rhythmicContrast: 0.5233911841642112
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Blair's First Grid
